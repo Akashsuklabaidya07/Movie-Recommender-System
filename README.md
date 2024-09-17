@@ -63,13 +63,12 @@ Pandas: Data processing and handling.
 Pickle: For loading precomputed similarity models.
 
 ## Project Structure
-.
-├── app.py                     # Main application file with Streamlit code
-├── movie_dict.pkl              # Pickled dictionary containing movie data
-├── similarity.pkl              # Precomputed movie similarity matrix
-├── README.md                   # Project README file
-├── requirements.txt            # Python dependencies
-└── .gitignore                  # Files to ignore in Git
+├── app.py                  # Main file to run the Streamlit app
+├── similarity.pkl           # Precomputed similarity matrix
+├── movie_dict.pkl           # Dictionary containing movie details
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
 
 ## API Key Setup
 To fetch movie posters, I will need to get an API key from The Movie Database (TMDb).
