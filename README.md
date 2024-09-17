@@ -63,6 +63,8 @@ Pandas: Data processing and handling.
 Pickle: For loading precomputed similarity models.
 
 ## Project Structure
+
+
 ├── app.py                  # Main file to run the Streamlit app
 ├── similarity.pkl           # Precomputed similarity matrix
 ├── movie_dict.pkl           # Dictionary containing movie details
