@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-A content-based movie recommender system built using Python, Streamlit, and The Movie Database (TMDb) API. The system recommends similar movies based on the input movie selected by the user and displays posters fetched from TMDb API.
+A content-based movie recommender system built using Machine Learing Streamlit  and The Movie Database (TMDb) API. The system recommends similar movies based on the input movie selected by the user and displays posters fetched from TMDb API.
 
 ## Table of Contents
 - [Overview](#overview)
