@@ -85,7 +85,7 @@ response = requests.get(f'https://api.themoviedb.org/3/movie/{movie_id}?api_key=
 Add the ability to filter recommendations based on genre or year.
 Implement collaborative filtering for more personalized recommendations.
 Include movie details like ratings and synopsis in the output.
-Improve the UI by adding animations or a better design layout.
+Improve the UI by adding animations or a better design layout..
 
 ## Contributing
 Contributions are welcome! Feel free to open a pull request or issue to suggest improvements.
